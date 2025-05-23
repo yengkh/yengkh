@@ -32,10 +32,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yengkh&layout=compact&theme=radical&hide=python)
 
-🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yengkh&theme=dracula&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 ✍️ Random Dev Quote
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=dev)
