@@ -4,6 +4,7 @@
 🌱 I’m currently learning **React JS**  
 💬 Ask me about **React, Node.js, or MongoDB**  
 📫 How to reach me: [channyengcambo@email.com](mailto:channyengcambo@email.com)  
+   Telegram: [@yeng_24]
 ---
 
 ### 🛠 Tech Stack
