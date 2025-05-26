@@ -28,7 +28,7 @@
 
 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yengkh&show_icons=true&theme=gruvbox&count_private=true)
+###![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yengkh&show_icons=true&theme=gruvbox&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yengkh&layout=compact&theme=radical&hide=python)
 
