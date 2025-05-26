@@ -28,7 +28,7 @@
 
 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yengkh&layout=compact&theme=radical&hide=python)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yengkh&layout=compact&theme=radical)
 
 ✍️ Random Dev Quote
 
