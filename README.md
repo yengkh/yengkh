@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Full-stack web development**  
 - 🌱 I’m currently learning **React JS**  
-- 💬 Ask me about **React, Node.js, or MongoDB**  
+- 💬 Ask me about **React,Angular or Node.js**  
 - 📫 How to reach me: [channyengcambo@email.com](mailto:channyengcambo@email.com)
 - ⚡ Fun fact GPT
 ---
